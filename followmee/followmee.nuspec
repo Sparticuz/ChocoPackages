@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>followmee</id>
+    <title>FollowMee GPS Tracker</title>
+    <version>1.7</version>
+    <authors>FollowMee LLC</authors>
+    <owners>Kyle McNally</owners>
+    <summary>GPS Tracker by FollowMee converts your mobile device (phone or tablet) into a GPS tracking device.</summary>
+    <description>GPS Tracker by FollowMee converts your mobile device (phone or tablet) into a GPS tracking device.</description>
+    <projectUrl>https://www.followmee.com</projectUrl>
+    <packageSourceUrl>https://www.followmee.com/download/setup_followmee.exe</packageSourceUrl>
+    <!--<projectSourceUrl>https://www.followmee.com</projectSourceUrl>
+    <docsUrl>https://www.followmee.com/Support.aspx</docsUrl>
+    <mailingListUrl></mailingListUrl>
+    <bugTrackerUrl>https://www.followmee.com/Forums/default.aspx</bugTrackerUrl>-->
+    <tags>followmee</tags>
+    <copyright>2016 FollowMee LLC.</copyright>
+    <licenseUrl>https://www.followmee.com/tos.aspx</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/Sparticuz/ChocoPackages/raw/master/followmee/followmee.png</iconUrl>-->
+    <releaseNotes>1.7 Release</releaseNotes>
+    <!--<provides></provides>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
