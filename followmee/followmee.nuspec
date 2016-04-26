@@ -18,9 +18,8 @@
     <copyright>2016 FollowMee LLC.</copyright>
     <licenseUrl>https://www.followmee.com/tos.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/Sparticuz/ChocoPackages/raw/master/followmee/followmee.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/325dc4/followmee/followmee.png</iconUrl>
     <releaseNotes>1.7 Release</releaseNotes>
-    <!--<provides></provides>-->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
