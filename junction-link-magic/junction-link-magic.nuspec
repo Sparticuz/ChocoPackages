@@ -13,7 +13,7 @@
     <tags>junction-link-magic admin hard-link junction-point symlink</tags>
     <licenseUrl>https://en.wikipedia.org/wiki/Freeware</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/junction-link-magic.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/41c817/junction-link-magic/junction-link-magic.png</iconUrl>
     <releaseNotes>2.0.3.0 Release</releaseNotes>
   </metadata>
   <files>
