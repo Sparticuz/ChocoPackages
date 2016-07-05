@@ -1,7 +1,6 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 
-
 $packageName= 'networx'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'https://www.softperfect.com/download/freeware/networx_setup.exe'
@@ -18,28 +17,10 @@ $packageArgs = @{
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 
   softwareName  = 'networx*'
-  checksum      = '408ae930c89c7b4ab13d3cff8c7567b19c39551f0528e242faebcde075ac66bf'
+  checksum      = 'd84040a36274e6241a8e3f09a520dcaa0d390d639457bb9da835e78aac820dfe'
   checksumType  = 'sha256'
-  checksum64    = '408ae930c89c7b4ab13d3cff8c7567b19c39551f0528e242faebcde075ac66bf'
+  checksum64    = 'd84040a36274e6241a8e3f09a520dcaa0d390d639457bb9da835e78aac820dfe'
   checksumType64= 'sha256'
 }
 
 Install-ChocolateyPackage @packageArgs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

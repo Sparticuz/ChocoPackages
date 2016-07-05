@@ -3,8 +3,8 @@
 $ErrorActionPreference = 'Stop';
 
 $packageName = 'networx'
-$softwareName = 'networx*'
-$installerType = 'EXE' 
+$softwareName = 'NetWorx*'
+$installerType = 'EXE'
 
 $validExitCodes = @(0, 3010, 1605, 1614, 1641)
 if ($installerType -ne 'MSI') {
@@ -16,14 +16,8 @@ $uninstalled = $false
 [array]$key = Get-UninstallRegistryKey -SoftwareName $softwareName
 
 if ($key.Count -eq 1) {
-  $key | % { 
-    $file = "$($_.UninstallString)"
-
-    if ($installerType -eq 'MSI') {
-      $silentArgs = "$($_.PSChildName) $silentArgs"
-
-      $file = ''
-    }
+  $key | % {
+    $file = "$($_.UninstallString.Replace('"',''))"
 
     Uninstall-ChocolateyPackage -PackageName $packageName `
                                 -FileType $installerType `
@@ -39,6 +33,3 @@ if ($key.Count -eq 1) {
   Write-Warning "Please alert package maintainer the following keys were matched:"
   $key | % {Write-Warning "- $_.DisplayName"}
 }
-
-
-
