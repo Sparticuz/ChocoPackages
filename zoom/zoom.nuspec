@@ -7,11 +7,11 @@
     <title>Zoom</title>
     <authors>Zoom Video Communications, Inc.</authors>
     <projectUrl>https://zoom.us</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/Sparticuz/ChocoPackages/master/zoom/zoom.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/master/zoom/zoom.png</iconUrl>
     <licenseUrl>http://zoom.us/pricing</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://support.zoom.us/hc/en-us</docsUrl>
-    <packageSourceUrl>https://www.github.com/Sparticuz/ChocoPackages/zoom</packageSourceUrl>
+    <packageSourceUrl>https://www.github.com/Sparticuz/ChocoPackages</packageSourceUrl>
     <tags>zoom admin webinar webcam meeting</tags>
     <summary>Zoom unifies cloud video conferencing, simple online meetings, group messaging, and a software-defined conference room solution into one easy-to-use platform.</summary>
     <description>Zoom unifies cloud video conferencing, simple online meetings, group messaging, and a software-defined conference room solution into one easy-to-use platform. Our solution offers the best video, audio, and wireless screen-sharing experience across Windows, Mac, iOS, Android, Blackberry, Linux, Zoom Rooms, and H.323/SIP room systems. Founded in 2011, Zoom's mission is to develop a people-centric cloud service that transforms the real-time collaboration experience and improves the quality and effectiveness of communications forever.</description>
