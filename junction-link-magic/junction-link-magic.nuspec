@@ -8,7 +8,7 @@
     <owners>Kyle McNally</owners>
     <summary>Junction Link Magic automatically lists existing junction points, and it offers an easy interface to add, modify or remove junction points.</summary>
     <description>Junction Link Magic automatically lists existing junction points, and it offers an easy interface to add, modify or remove junction points.</description>
-    <projectUrl>http://web.archive.org/web/20160304182634/http://rekenwonder.com/linkmagic.htm</projectUrl>
+    <projectUrl>https://web.archive.org/web/20160304182634/http://rekenwonder.com/linkmagic.htm</projectUrl>
     <packageSourceUrl>https://chocolatey.org/packages/junction-link-magic/</packageSourceUrl>
     <tags>junction-link-magic admin hard-link junction-point symlink</tags>
     <licenseUrl>https://en.wikipedia.org/wiki/Freeware</licenseUrl>

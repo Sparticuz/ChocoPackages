@@ -4,7 +4,7 @@ $ErrorActionPreference = 'Stop';
 
 $packageName= 'junction-link-magic'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://web.archive.org/web/20160304182634/http://www.rekenwonder.com/linkmagic2.exe'
+$url        = 'https://web.archive.org/web/20160304182634/http://www.rekenwonder.com/linkmagic2.exe'
 
 $packageArgs = @{
   packageName   = $packageName
