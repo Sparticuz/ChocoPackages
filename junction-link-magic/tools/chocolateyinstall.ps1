@@ -4,7 +4,7 @@ $ErrorActionPreference = 'Stop';
 
 $packageName= 'junction-link-magic'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://www.rekenwonder.com/linkmagic2.exe'
+$url        = 'http://web.archive.org/web/20160304182634/http://www.rekenwonder.com/linkmagic2.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -17,8 +17,8 @@ $packageArgs = @{
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 
   softwareName  = 'junction-link-magic*'
-  checksum      = 'fce8a96cf32037fac594c3e441febcc0'
-  checksumType  = 'md5'
+  checksum      = '20F2900F920D75653A1604125ED197D518904C8D752ED2BE95074401DA248CC5'
+  checksumType  = 'sha256'
 }
 
 Install-ChocolateyPackage @packageArgs

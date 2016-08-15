@@ -3,18 +3,19 @@
   <metadata>
     <id>junction-link-magic</id>
     <title>Junction Link Magic</title>
-    <version>2.0.3.0</version>
+    <version>2.0.3.20160815</version>
     <authors>Rekenwonder Software</authors>
     <owners>Kyle McNally</owners>
     <summary>Junction Link Magic automatically lists existing junction points, and it offers an easy interface to add, modify or remove junction points.</summary>
     <description>Junction Link Magic automatically lists existing junction points, and it offers an easy interface to add, modify or remove junction points.</description>
-    <projectUrl>http://www.rekenwonder.com/linkmagic.htm</projectUrl>
+    <projectUrl>http://web.archive.org/web/20160304182634/http://rekenwonder.com/linkmagic.htm</projectUrl>
     <packageSourceUrl>https://chocolatey.org/packages/junction-link-magic/</packageSourceUrl>
     <tags>junction-link-magic admin hard-link junction-point symlink</tags>
     <licenseUrl>https://en.wikipedia.org/wiki/Freeware</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/41c817/junction-link-magic/junction-link-magic.png</iconUrl>
-    <releaseNotes>2.0.3.0 Release</releaseNotes>
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/master/junction-link-magic/junction-link-magic.png</iconUrl>
+    <releaseNotes>2.0.3.0 Release
+     - Updated on 20160815: Fix url, upgrade from md5 to sha256 checksum</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
