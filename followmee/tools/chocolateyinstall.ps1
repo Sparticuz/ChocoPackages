@@ -15,8 +15,8 @@ $packageArgs = @{
   silentArgs   = '/s /v"/qn"'
 
   softwareName  = 'followmee*'
-  checksum      = 'c6f057aec3bebb1a9fbbea4d3e1184fb'
-  checksumType  = 'md5'
+  checksum      = 'DE29C32F9BC16EFF134724860FEFB9BE61287B1CA683015698BD2BF1E97ADA25'
+  checksumType  = 'sha256'
 }
 
 Install-ChocolateyPackage @packageArgs

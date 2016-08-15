@@ -3,7 +3,7 @@
   <metadata>
     <id>followmee</id>
     <title>FollowMee GPS Tracker</title>
-    <version>1.7</version>
+    <version>1.7.20160815</version>
     <authors>FollowMee LLC</authors>
     <owners>Kyle McNally</owners>
     <summary>GPS Tracker by FollowMee converts your mobile device (phone or tablet) into a GPS tracking device.</summary>
@@ -12,12 +12,13 @@
     <packageSourceUrl>https://chocolatey.org/packages/followmee/</packageSourceUrl>
     <docsUrl>https://www.followmee.com/Support.aspx</docsUrl>
     <bugTrackerUrl>https://www.followmee.com/Forums/default.aspx</bugTrackerUrl>
-    <tags>followmee admin</tags>
+    <tags>followmee admin gps tracking mobile map follow</tags>
     <copyright>2016 FollowMee LLC.</copyright>
     <licenseUrl>https://www.followmee.com/tos.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/325dc4/followmee/followmee.png</iconUrl>
-    <releaseNotes>1.7 Release</releaseNotes>
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/master/followmee/followmee.png</iconUrl>
+    <releaseNotes>1.7 Release
+     - Updated on 20160815: upgrade checksum to sha256</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
