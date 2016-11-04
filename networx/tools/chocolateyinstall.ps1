@@ -17,10 +17,10 @@ $packageArgs = @{
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 
   softwareName  = 'networx*'
-  checksum      = 'd84040a36274e6241a8e3f09a520dcaa0d390d639457bb9da835e78aac820dfe'
+  checksum      = 'D6E7B93A623D39934513CBC9BF0CFA7C58ED1BD460851492A87C831B00C4FE6D'
   checksumType  = 'sha256'
-  checksum64    = 'd84040a36274e6241a8e3f09a520dcaa0d390d639457bb9da835e78aac820dfe'
-  checksumType64= 'sha256'
+  checksum64    = $checksum
+  checksumType64= $checksumType
 }
 
 Install-ChocolateyPackage @packageArgs

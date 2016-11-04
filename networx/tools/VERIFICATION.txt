@@ -2,4 +2,4 @@ VERIFICATION
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
-The SHA256 of networx_setup.exe is d84040a36274e6241a8e3f09a520dcaa0d390d639457bb9da835e78aac820dfe
+The SHA256 of networx_setup.exe is D6E7B93A623D39934513CBC9BF0CFA7C58ED1BD460851492A87C831B00C4FE6D
