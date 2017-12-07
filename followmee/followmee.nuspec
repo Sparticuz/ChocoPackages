@@ -9,7 +9,7 @@
     <summary>GPS Tracker by FollowMee converts your mobile device (phone or tablet) into a GPS tracking device.</summary>
     <description>GPS Tracker by FollowMee converts your mobile device (phone or tablet) into a GPS tracking device.</description>
     <projectUrl>https://www.followmee.com</projectUrl>
-    <packageSourceUrl>https://chocolatey.org/packages/followmee/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Sparticuz/ChocoPackages/tree/master/followmee</packageSourceUrl>
     <docsUrl>https://www.followmee.com/Support.aspx</docsUrl>
     <bugTrackerUrl>https://www.followmee.com/Forums/default.aspx</bugTrackerUrl>
     <tags>followmee admin gps tracking mobile map follow</tags>
