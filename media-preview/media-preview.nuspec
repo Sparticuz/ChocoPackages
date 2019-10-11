@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>media-preview</id>
+    <title>Media Preview</title>
+    <version>1.4.3</version>
+    <authors>Babelsoft</authors>
+    <owners>Kyle McNally</owners>
+    <summary>Media Preview shows thumbnails for all your video files in Windows Explorer.</summary>
+    <description>Media Preview shows thumbnails for all your video files in Windows Explorer. Media Preview is powered by ffmpeg.</description>
+    <projectUrl>http://www.babelsoft.net/products/mediapreview.htm</projectUrl>
+    <packageSourceUrl>https://github.com/Sparticuz/ChocoPackages/tree/master/media-preview</packageSourceUrl>
+    <tags>media-preview mkv mp4 thumbnail</tags>
+    <licenseUrl>https://en.wikipedia.org/wiki/Freeware</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/Sparticuz/ChocoPackages/master/media-preview/media-preview.png</iconUrl>
+    <releaseNotes>https://www.videohelp.com/software/Media-Preview/version-history#changelog</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
