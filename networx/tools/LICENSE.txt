@@ -1,5 +1,0 @@
-﻿From: https://www.softperfect.com/products/networx/manual/license.htm
-
-LICENSE
-
-Copyright in this software and included documentation belongs to SoftPerfect. All rights are reserved. This software is FREEWARE and is provided “AS IS”, without any express or implied warranty. Permission is hereby granted to anyone to install, use, copy, publish, and distribute copies of this software, free of charge, provided that the original software is not modified in any way.

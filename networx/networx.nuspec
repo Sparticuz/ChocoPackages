@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>networx</id>
-    <version>5.5.5</version>
+    <version>6.2.5</version>
     <owners>Kyle McNally</owners>
     <title>NetWorx</title>
     <authors>Soft Perfect</authors>
@@ -11,7 +11,6 @@
     <licenseUrl>https://www.softperfect.com/products/networx/manual/license.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://www.softperfect.com/products/networx/manual/index.htm</docsUrl>
-    <packageSourceUrl>https://chocolatey.org/packages/networx/</packageSourceUrl>
     <tags>networx admin bandwidth monitor usage reporting</tags>
     <summary>NetWorx is a simple and free, yet powerful tool that helps you objectively evaluate your bandwidth consumption situation.</summary>
     <description>NetWorx is a simple and free, yet powerful tool that helps you objectively evaluate your bandwidth consumption situation. You can use it to collect bandwidth usage data and measure the speed of your Internet or any other network connections. NetWorx can help you identify possible sources of network problems, ensure that you do not exceed the bandwidth limits specified by your ISP, or track down suspicious network activity characteristic of Trojan horses and hacker attacks.

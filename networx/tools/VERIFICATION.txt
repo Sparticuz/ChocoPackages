@@ -1,5 +1,0 @@
-VERIFICATION
-Verification is intended to assist the Chocolatey moderators and community
-in verifying that this package's contents are trustworthy.
-
-The SHA256 of networx_setup.exe is D6E7B93A623D39934513CBC9BF0CFA7C58ED1BD460851492A87C831B00C4FE6D
