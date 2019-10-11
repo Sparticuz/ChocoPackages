@@ -1,6 +1,6 @@
 # ChocoPackages
 
-Contains all the chocolatey packages that I maintain. 
+Contains all the chocolatey packages that I maintain.
 
 ----------
 
@@ -12,3 +12,4 @@ Contains all the chocolatey packages that I maintain.
 ----------
 [Zoom](https://zoom.us/) [![Chocolatey](https://img.shields.io/chocolatey/dt/zoom.svg?maxAge=2592000)](https://chocolatey.org/packages/zoom/) [![Chocolatey](https://img.shields.io/chocolatey/v/zoom.svg?maxAge=2592000)](https://chocolatey.org/packages/zoom/)
 ----------
+[Media Preview](http://www.babelsoft.net/products/mediapreview.htm) [![Chocolatey](https://img.shields.io/chocolatey/dt/media-preview.svg?maxAge=2592000)](https://chocolatey.org/packages/media-preview/) [![Chocolatey](https://img.shields.io/chocolatey/v/media-preview.svg?maxAge=2592000)](https://chocolatey.org/packages/media-preview/)
