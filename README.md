@@ -1,4 +1,8 @@
-# ChocoPackages
+# Deprecation notice
+---
+I've switched to winget
+
+### ChocoPackages
 
 Contains all the chocolatey packages that I maintain.
 
